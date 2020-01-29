@@ -1,5 +1,4 @@
 # Seismic
-<<<<<<< HEAD
 
 ## Screenshots
 
@@ -13,5 +12,3 @@
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
->>>>>>> ea5ec1da5639a9b053d8439b9bcfe28d1c77c8be

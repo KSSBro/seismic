@@ -4,9 +4,7 @@ A Flutter app to view recent earthquake data from around the globe, built as a c
 
 ## Screenshots
 
-<img alt="Screenshot 1" src="https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_1.jpg" style="float:left;" width="200">
-<img alt="Screenshot 2" src="https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_2.jpg" style="float:left;" width="200">
-
+![Screenshot 1](https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_1.jpg) ![Screenshot 2](https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_2.jpg)
 ## Authors
 
 - **KSSBro** - [Github](https://github.com/KSSBro)

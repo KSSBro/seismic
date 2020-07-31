@@ -7,7 +7,7 @@ A Flutter app to view recent seismic data from around the globe, built as a codi
 ![Screenshot 1](https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_1.jpg) ![Screenshot 2](https://raw.githubusercontent.com/KSSBro/seismic/master/resources/images/screenshot_2.jpg)
 ## Authors
 
-- **KSSBro** - [Github](https://github.com/KSSBro)
+- **Araekiel** - [Github](https://github.com/Araekiel)
 
 ## License
 

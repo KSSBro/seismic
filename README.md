@@ -1,6 +1,6 @@
 # Seismic
 
-A Flutter app to view recent seismic data from around the globe, built as a coding challenge from an online tutorial.
+A Flutter app to view recent seismic data from around the globe, built as the solution to a coding challenge from an online tutorial.
 
 ## Screenshots
 

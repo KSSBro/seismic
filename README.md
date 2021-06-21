@@ -3,7 +3,9 @@
 A Flutter app that displays seismic data from around the world. The live data - magnitude, location and exact coordinates of the earthquake, is sourced from the USGS public earthquake API. 
 
 <a><img alt="MIT License" src="https://img.shields.io/apm/l/atomic-design-ui.svg?"></a>
-<img alt="PRs Welcome"src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+<a href="http://makeapullrequest.com">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+</a>
 
 ## Screenshots
 

@@ -18,9 +18,9 @@ A Flutter app that displays seismic data from around the world. The live data - 
 You need to install the *[Flutter](https://dart.dev/)* SDK to run this project.
 Head over to *[Install - Flutter: flutter.dev](https://flutter.dev/docs/get-started/install)* to install the sdk.<br>
 The *[Dart](https://dart.dev/)* SDK comes packaged along with Flutter.<br>
-You'll also need an android or ios device or an emulator to run the project.
+You'll also need an android or ios device or an emulator to run this project.
 
-### Documentation detailing the emulator/device setup:
+### Documentation detailing emulator/device setup:
 #### Windows: 
 - *[Android setup](https://flutter.dev/docs/get-started/install/windows#android-setup)*
 #### MacOS: 

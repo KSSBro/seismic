@@ -59,4 +59,4 @@ $ flutter run
 
 ## License
 
-[MIT License](https://github.com/Araekiel/seismic/blob/master/LICENSE) | Copyright (c) 2020 Kumar Shashwat
+*[MIT License](https://github.com/Araekiel/seismic/blob/master/LICENSE)* | Copyright (c) 2020 Kumar Shashwat
